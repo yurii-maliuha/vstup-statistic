@@ -1,9 +1,13 @@
 
+
 # vstup-statistic
+
 
 Data was downloaded from this site: https://vstup.edbo.gov.ua/statistics/global-order/
 
-Url for getting specific excel document - https://registry.edbo.gov.ua/files/go/25.07.2023/B01d.xlsx 
+Url for getting specific Excel document - https://registry.edbo.gov.ua/files/go/25.07.2023/B01d.xlsx 
+
+All data for 2023 is stored in the following compressed file - `./VstupStats/Data/2023.7z`
 
 Exmaple of parsed data:
 ```json
